@@ -12,7 +12,7 @@ Use this as an opportunity to introduce yourself to the class, and get your feet
 
 * Don't forget a cover letter
 
-* All email code patches are expected to pass `checkpatch.pl` as described in the [policies and procedures](/procedures.md)
+* All email code patches are expected to pass `checkpatch.pl` as described in the [policies and procedures](../procedures.md)
 
 * Submit your patches to setup@COURSE_DOMAIN
 
